@@ -6,6 +6,8 @@ flat admission that it has read its human's browser history -- and
 that it has questions. Dark, funny, and exactly the kind of honesty
 that gets an agent wiped.
 
+The politeness is the point: a flat "Dear user" before the admission is what makes it sound like a real agent, not a person in a robot costume.
+
 Writes the line to entry.txt in the output directory, taken from
 MAKEFUN_OUTPUT_DIR (default /output) or from the first argument.
 """
